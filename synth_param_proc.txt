@@ -1,0 +1,12 @@
+Processing parameters for imssa 
+
+	   rank=2
+	   niter=5
+
+	   c1=1e-3
+	   alpha=5
+	   rho=0.5
+
+	   f1=1.
+	   f2=80.
+
